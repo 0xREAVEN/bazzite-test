@@ -1,4 +1,4 @@
 name: silverbuild
 description: L'alliance parfaite entre Fedora Silverblue, Bazzite et BlueBuild, pour mes besoins.
-base-image: ghcr.io/ublue-os/bazzite
+base-image: ghcr.io/ublue-os/bazzite-gnome
 image-version: latest
