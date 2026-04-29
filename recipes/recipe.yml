@@ -6,8 +6,8 @@ image-version: latest
 
 modules:
   - type: rpm-ostree
-    repos:
-    remove:
-    install:
+    #repos:
+    #remove:
+    #install:
     
   - type: signing
