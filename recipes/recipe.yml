@@ -8,3 +8,4 @@ modules:
     remove:
      - waydroid
      - waydroid-selinux
+     - lutris
